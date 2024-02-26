@@ -72,7 +72,7 @@ List of services that you can use to create and promote positive change to your 
 |Vecteezy|Stock Photos, Videos|https://www.vecteezy.com/ |
 | Canva     | Editor, Inforaphic        | https://www.canva.com/ |
 | Flippity     | Gamification, Leaderboard        | https://flippity.net/ |
-| Clipdrop   | Generative AI Graphic        | https://clipdrop.co/ |
+| Generate Image   | Generative AI Graphic        | https://clipdrop.co/ or https://deepai.org/machine-learning-model/text2img |
 | The Noun Project   | Icons, Photos        | https://thenounproject.com/|
 | Data Color Picker  | Colors, Visual        |https://www.learnui.design/tools/data-color-picker.html|
 |Viz Pallete|Colors, Visual|https://projects.susielu.com/viz-palette|
