@@ -25,7 +25,8 @@ This is a curated repository for comprehensive mechanism and resources to help h
 
 ## Cybernews
 Useful news and blogs from around the world
-
+-    [Cyber Security Events](https://dev.events/security)
+-    
 ### Phishing
 - https://cofense.com/knowledge-center-hub/real-phishing-email-examples/
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog
@@ -108,6 +109,7 @@ List of services that you can use to create and promote positive change to your 
 - [X Thread Reader](https://threadreaderapp.com/)
 - [Social Engineering TV Series - The Inside Man](https://www.imdb.com/title/tt11847918/episodes/)
 - [Stay Safe Online Youtube Channel](https://www.youtube.com/@StaySafeOnline1)
+- [PowerBI Idea Sources datakuity](https://datakuity.com/)
 ### Measure Culture Change
 
 Keeping track of the program is the top priority to promote culture change and adjust the program based on our metrics. We can use corporate packaged tools like Microsoft 365 (PowerBI, Excel), Tableau, Google Sheets. 
