@@ -25,8 +25,8 @@ This is a curated repository for comprehensive mechanism and resources to help h
 
 ## Cybernews
 Useful news and blogs from around the world
--    [Cyber Security Events](https://dev.events/security)
--    
+-    [Global Cyber Security Events](https://dev.events/security)
+
 ### Phishing
 - https://cofense.com/knowledge-center-hub/real-phishing-email-examples/
 - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog
